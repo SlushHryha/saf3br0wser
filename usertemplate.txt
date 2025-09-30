@@ -1,0 +1,54 @@
+{
+  "userdata": {
+    "name": "",
+    "email": "",
+    "password": ""
+  },
+  "safebrowserdata": {
+    "squareopener": {
+      "groupnames": {
+        "school": "school",
+        "home": "home"
+      },
+      "1": "Klett Lernen",
+      "2": "Cornelsen",
+      "3": "Teams",
+      "4": "Photos",
+      "5": "Goodnotes"
+    },
+    "fastopener": {
+      "1": {
+        "url": "crazygames.com",
+        "restricted": false,
+        "photo": ""
+      },
+      "2": {
+        "url": "enjoy4fun.com",
+        "restricted": false,
+        "photo": ""
+      },
+      "3": {
+        "url": "hero-wars.com",
+        "restricted": false,
+        "photo": ""
+      },
+      "4": {
+        "url": "kibagames.com",
+        "restricted": false,
+        "photo": ""
+      },
+      "5": {
+        "url": "poki.com",
+        "restricted": false,
+        "photo": ""
+      }
+    }
+  },
+  "settings": {
+    "safebrowserpassword": {
+      "state": false,
+      "password": ""
+    },
+    "classroomhack": false
+  }
+}
