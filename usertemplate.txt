@@ -7,8 +7,8 @@
   "safebrowserdata": {
     "squareopener": {
       "groupnames": {
-        "school": "school",
-        "home": "home"
+        "school": "schooltabgroup",
+        "home": "hometabgroup"
       },
       "1": "Klett Lernen",
       "2": "Cornelsen",
