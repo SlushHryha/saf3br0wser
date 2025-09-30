@@ -5,7 +5,7 @@
     "password": ""
   },
   "safebrowserdata": {
-    "squareopener": {
+    "fastopener": {
       "groupnames": {
         "school": "schooltabgroup",
         "home": "hometabgroup"
@@ -16,7 +16,7 @@
       "4": "Photos",
       "5": "Goodnotes"
     },
-    "fastopener": {
+    "squareopener": {
       "1": {
         "url": "crazygames.com",
         "restricted": false,
