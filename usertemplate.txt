@@ -14,27 +14,27 @@
         "apps": {
           "Klett Lernen": {
             "index": 1,
-            "restricted": false,
+            "exist": true,
             "photo": ""
           },
           "Cornelsen": {
             "index": 2,
-            "restricted": false,
+            "exist": true,
             "photo": ""
           },
           "Teams": {
             "index": 3,
-            "restricted": false,
+            "exist": true,
             "photo": ""
           },
           "Photos": {
             "index": 4,
-            "restricted": false,
+            "exist": true,
             "photo": ""
           },
           "Goodnotes": {
             "index": 5,
-            "restricted": false,
+            "exist": true,
             "photo": ""
           }
         }
