@@ -14,25 +14,30 @@
         "apps": {
           "Klett Lernen": {
             "index": 1,
+            "appname": "Klett Lernen",
             "exist": true,
             "photo": ""
           },
           "Cornelsen": {
+            "appname": "Cornelsen",
             "index": 2,
             "exist": true,
             "photo": ""
           },
           "Teams": {
+            "appname": "Teams",
             "index": 3,
             "exist": true,
             "photo": ""
           },
           "Photos": {
+            "appname": "Photos",
             "index": 4,
             "exist": true,
             "photo": ""
           },
           "Goodnotes": {
+            "appname": "Goodnotes",
             "index": 5,
             "exist": true,
             "photo": ""
@@ -42,26 +47,31 @@
       "squareopener": {
         "urls": {
           "crazygames.com": {
+            "urlname": "crazygames.com",
             "index": 1,
             "restricted": false,
             "photo": ""
           },
           "enjoy4fun.com": {
+            "urlname": "enjoy4fun.com",
             "index": 2,
             "restricted": false,
             "photo": ""
           },
           "hero-wars.com": {
+            "urlname": "hero-wars.com",
             "index": 3,
             "restricted": false,
             "photo": ""
           },
           "kibagames.com": {
+            "urlname": "kibagames.com",
             "index": 4,
             "restricted": false,
             "photo": ""
           },
           "poki.com": {
+            "urlname": "poki.com",
             "index": 5,
             "restricted": false,
             "photo": ""
