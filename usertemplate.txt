@@ -1,78 +1,80 @@
 {
-  "userdata": {
-    "name": "",
-    "email": "",
-    "password": ""
-  },
-  "safebrowserdata": {
-    "fastopener": {
-      "groupnames": {
-        "school": "School",
-        "home": "Home"
-      },
-      "apps": {
-        "Klett Lernen": {
-          "index": 1,
-          "restricted": false,
-          "photo": ""
-        },
-        "Cornelsen": {
-          "index": 2,
-          "restricted": false,
-          "photo": ""
-        },
-        "Teams": {
-          "index": 3,
-          "restricted": false,
-          "photo": ""
-        },
-        "Photos": {
-          "index": 4,
-          "restricted": false,
-          "photo": ""
-        },
-        "Goodnotes": {
-          "index": 5,
-          "restricted": false,
-          "photo": ""
-        }
-      }
-    },
-    "squareopener": {
-      "urls": {
-        "crazygames.com": {
-          "index": 1,
-          "restricted": false,
-          "photo": ""
-        },
-        "enjoy4fun.com": {
-          "index": 2,
-          "restricted": false,
-          "photo": ""
-        },
-        "hero-wars.com": {
-          "index": 3,
-          "restricted": false,
-          "photo": ""
-        },
-        "kibagames.com": {
-          "index": 4,
-          "restricted": false,
-          "photo": ""
-        },
-        "poki.com": {
-          "index": 5,
-          "restricted": false,
-          "photo": ""
-        }
-      }
-    }
-  },
-  "settings": {
-    "safebrowserpassword": {
-      "state": false,
+  "safebrowser": {
+    "userdata": {
+      "name": "",
+      "email": "",
       "password": ""
     },
-    "classroomhack": false
+    "safebrowserdata": {
+      "fastopener": {
+        "groupnames": {
+          "school": "School",
+          "home": "Home"
+        },
+        "apps": {
+          "Klett Lernen": {
+            "index": 1,
+            "restricted": false,
+            "photo": ""
+          },
+          "Cornelsen": {
+            "index": 2,
+            "restricted": false,
+            "photo": ""
+          },
+          "Teams": {
+            "index": 3,
+            "restricted": false,
+            "photo": ""
+          },
+          "Photos": {
+            "index": 4,
+            "restricted": false,
+            "photo": ""
+          },
+          "Goodnotes": {
+            "index": 5,
+            "restricted": false,
+            "photo": ""
+          }
+        }
+      },
+      "squareopener": {
+        "urls": {
+          "crazygames.com": {
+            "index": 1,
+            "restricted": false,
+            "photo": ""
+          },
+          "enjoy4fun.com": {
+            "index": 2,
+            "restricted": false,
+            "photo": ""
+          },
+          "hero-wars.com": {
+            "index": 3,
+            "restricted": false,
+            "photo": ""
+          },
+          "kibagames.com": {
+            "index": 4,
+            "restricted": false,
+            "photo": ""
+          },
+          "poki.com": {
+            "index": 5,
+            "restricted": false,
+            "photo": ""
+          }
+        }
+      }
+    },
+    "settings": {
+      "safebrowserpassword": {
+        "state": false,
+        "password": ""
+      },
+      "classroomhack": false
+    }
   }
 }
