@@ -7,40 +7,64 @@
   "safebrowserdata": {
     "fastopener": {
       "groupnames": {
-        "school": "schooltabgroup",
-        "home": "hometabgroup"
+        "school": "School",
+        "home": "Home"
       },
-      "1": "Klett Lernen",
-      "2": "Cornelsen",
-      "3": "Teams",
-      "4": "Photos",
-      "5": "Goodnotes"
+      "apps": {
+        "Klett Lernen": {
+          "index": 1,
+          "restricted": false,
+          "photo": ""
+        },
+        "Cornelsen": {
+          "index": 2,
+          "restricted": false,
+          "photo": ""
+        },
+        "Teams": {
+          "index": 3,
+          "restricted": false,
+          "photo": ""
+        },
+        "Photos": {
+          "index": 4,
+          "restricted": false,
+          "photo": ""
+        },
+        "Goodnotes": {
+          "index": 5,
+          "restricted": false,
+          "photo": ""
+        }
+      }
     },
     "squareopener": {
-      "1": {
-        "url": "crazygames.com",
-        "restricted": false,
-        "photo": ""
-      },
-      "2": {
-        "url": "enjoy4fun.com",
-        "restricted": false,
-        "photo": ""
-      },
-      "3": {
-        "url": "hero-wars.com",
-        "restricted": false,
-        "photo": ""
-      },
-      "4": {
-        "url": "kibagames.com",
-        "restricted": false,
-        "photo": ""
-      },
-      "5": {
-        "url": "poki.com",
-        "restricted": false,
-        "photo": ""
+      "urls": {
+        "crazygames.com": {
+          "index": 1,
+          "restricted": false,
+          "photo": ""
+        },
+        "enjoy4fun.com": {
+          "index": 2,
+          "restricted": false,
+          "photo": ""
+        },
+        "hero-wars.com": {
+          "index": 3,
+          "restricted": false,
+          "photo": ""
+        },
+        "kibagames.com": {
+          "index": 4,
+          "restricted": false,
+          "photo": ""
+        },
+        "poki.com": {
+          "index": 5,
+          "restricted": false,
+          "photo": ""
+        }
       }
     }
   },
