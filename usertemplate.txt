@@ -86,7 +86,8 @@
         "state": false,
         "password": ""
       },
-      "classroomhack": false
+      "classroomhack": false,
+      "writedate" : true
     }
   }
 }
