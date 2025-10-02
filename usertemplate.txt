@@ -4,7 +4,7 @@
       "name": "exampleName",
       "email": "",
       "password": "",
-      "lastacivity": {
+      "lastactivity": {
         "type": "",
         "date": "",
         "name": ""
