@@ -44,26 +44,36 @@
         "urlslist": "crazygames.com&enjoy4fun.com&hero-wars.com&kibagames.com&poki.com",
         "urls": {
           "crazygames.com": {
+            "lastdate": "",
+            "description": "",
             "index": 1,
             "restricted": false,
             "photo": ""
           },
           "enjoy4fun.com": {
+            "lastdate": "",
+            "description": "",
             "index": 2,
             "restricted": false,
             "photo": ""
           },
           "hero-wars.com": {
+            "lastdate" : "",
+            "description" : "",
             "index": 3,
             "restricted": false,
             "photo": ""
           },
           "kibagames.com": {
+            "lastdate" : "",
+            "description" : "",
             "index": 4,
             "restricted": false,
             "photo": ""
           },
           "poki.com": {
+            "lastdate" : "",
+            "description": "",
             "index": 5,
             "restricted": false,
             "photo": ""
