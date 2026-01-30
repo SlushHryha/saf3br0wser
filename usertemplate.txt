@@ -27,7 +27,7 @@
       "safebrowserpassword": {
         "description": "",
         "state": true,
-        "value": "asdasdasd342"
+        "value": "ver2"
       },
       "language": {
         "description": "",
