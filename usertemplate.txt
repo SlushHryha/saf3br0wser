@@ -22,25 +22,25 @@
       "squareopener": {
         "urlslist": "crazygames.com&enjoy4fun.com&hero-wars.com&kibagames.com&poki.com"
       }
-    }
-  },
- "settings": {
-    "safebrowserpassword": {
-      "description": "",
-      "state": true,
-      "value": "asdasdasd342"
     },
-    "language": {
-      "description": "",
-      "value": "english"
-    },
-    "autosync": {
-      "description": "",
-      "state": true
-    },
-    "writedate": {
-      "description": "",
-      "state": true
+    "settings": {
+      "safebrowserpassword": {
+        "description": "",
+        "state": true,
+        "value": "asdasdasd342"
+      },
+      "language": {
+        "description": "",
+        "value": "english"
+      },
+      "autosync": {
+        "description": "",
+        "state": true
+      },
+      "writedate": {
+        "description": "",
+        "state": true
+      }
     }
   }
 }
