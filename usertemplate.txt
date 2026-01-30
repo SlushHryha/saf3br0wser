@@ -3,11 +3,11 @@
     "userdata": {
       "name": "exampleName",
       "email": "",
-      "password": "",
+  
       "lastactivity": {
-        "type": "",
-        "date": "",
-        "name": ""
+        "type": "SquareOener",
+        "date": "12.21.2021",
+        "name": "example.com"
       }
     },
     "safebrowserdata": {
