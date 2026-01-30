@@ -2,8 +2,7 @@
   "safebrowser": {
     "userdata": {
       "name": "exampleName",
-      "email": "",
-  
+      "password": "",
       "lastactivity": {
         "type": "SquareOpener",
         "date": "12.21.2021",
