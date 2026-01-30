@@ -2,6 +2,8 @@
   "safebrowser": {
     "userdata": {
       "name": "exampleName",
+      "lastsync": "29.21.2032",
+      "joindate": "29.21.2032",
       "password": "",
       "lastactivity": {
         "type": "SquareOpener",
@@ -15,78 +17,30 @@
           "school": "School",
           "home": "Home"
         },
-        "appslist": "Klett Lernen§Cornelsen§Teams§Photos§Goodnotes",
-        "apps": {
-          "Klett Lernen": {
-            "index": 1,
-            "exist": true,
-            "photo": ""
-          },
-          "Cornelsen": {
-            "index": 2,
-            "exist": true,
-            "photo": ""
-          },
-          "Teams": {
-            "index": 3,
-            "exist": true,
-            "photo": ""
-          },
-          "Photos": {
-            "index": 4,
-            "exist": true,
-            "photo": ""
-          },
-          "Goodnotes": {
-            "index": 5,
-            "exist": true,
-            "photo": ""
-          }
-        }
+        "appslist": "Klett Lernen§Cornelsen§Teams§Photos§Goodnotes"
       },
       "squareopener": {
-        "urlslist": "crazygames.com&enjoy4fun.com&hero-wars.com&kibagames.com&poki.com",
-        "urls": {
-          "crazygames.com": {
-            "description": "",
-            "index": 1,
-            "restricted": false,
-            "photo": ""
-          },
-          "enjoy4fun.com": {
-            "description": "",
-            "index": 2,
-            "restricted": false,
-            "photo": ""
-          },
-          "hero-wars.com": {
-            "description": "",
-            "index": 3,
-            "restricted": false,
-            "photo": ""
-          },
-          "kibagames.com": {
-            "description": "",
-            "index": 4,
-            "restricted": false,
-            "photo": ""
-          },
-          "poki.com": {
-            "description": "",
-            "index": 5,
-            "restricted": false,
-            "photo": ""
-          }
-        }
+        "urlslist": "crazygames.com&enjoy4fun.com&hero-wars.com&kibagames.com&poki.com"
       }
+    }
+  },
+ "settings": {
+    "safebrowserpassword": {
+      "description": "",
+      "state": true,
+      "value": "asdasdasd342"
     },
-    "settings": {
-      "safebrowserpassword": {
-        "state": false,
-        "password": ""
-      },
-      "classroomhack": false,
-      "writedate": true
+    "language": {
+      "description": "",
+      "value": "english"
+    },
+    "autosync": {
+      "description": "",
+      "state": true
+    },
+    "writedate": {
+      "description": "",
+      "state": true
     }
   }
 }
